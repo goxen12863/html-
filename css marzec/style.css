@@ -1,0 +1,63 @@
+
+header{
+  font-size: 20px;  
+}
+.one{
+   color:blue; 
+    border:2px #000000;
+    border-style: dotted dashed solid double;
+}
+div:first-child{
+color: green;
+}
+div:nth-child(2){
+color:green;
+}
+div:last-child{
+color:green;
+}
+li:hover{
+background-color:lightblue;
+border-left: #000000;
+}
+li:first-child{
+color:red
+}
+li:nth-child(2){
+color:black
+
+}
+li:nth-child(3){
+color: black;
+}
+li:last-child{
+color:purple
+}
+.button:focus {
+border: none;
+color: white;
+padding: 16px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+transition-duration: 0.4s;
+cursor:grabbing;
+}
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid red;
+}
+.button2{
+  background-color: white; 
+  color: yellow; 
+  border: 2px solid lightblue;
+}
+
+footer{
+  text-align: center;
+  background-color:olivedrab;
+  padding:30px;
+}

@@ -1,0 +1,8 @@
+menu poziomie i pionowe
+korzystanie ze znaczników semantycznych - header, nav, aside, main, footer
+strona oparta na float lub flex box
+pseudoklasy hover
+
+na 6:
+jeden odnośnik z menu odsyła do istniejącej zrobionej podstrony
++ pseudoklasy nth-child

@@ -1,0 +1,41 @@
+header {
+    padding: 30px;
+    background-color: blue;
+    color: aquamarine;
+    margin: auto;
+    text-align: center;
+    font-size: large;
+}
+
+.container1 {
+    display: flex;
+    background-color: lavenderblush;
+    color: coral;
+    max-width: 300px;
+}
+
+aside {
+    width: 250px;
+    height: 200px;
+}
+
+.x:hover,
+.x:active {
+    color: rgb(0, 0, 0);
+    background-color: darkgoldenrod;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+}
+
+.e:hover,
+.e:active{
+    flex-direction: row;
+    color: crimson;
+    background-color: rgb(255, 255, 255);
+}
+.e{
+padding: 5px;
+}
